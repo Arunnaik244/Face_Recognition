@@ -1,4 +1,3 @@
-<!--Please do not remove this part-->
 ![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
@@ -15,12 +14,12 @@ You can copy paste my markdown photo insert as following:
 -->
 
 ## 🛠️ Description
-<!--Remove the below lines and add yours -->
+
 This is A Face Recognition Project developed using OpenCV Module in Python.
 This Display a Blue Reactangle Frame around Faces.
 
 ## ⚙️ Languages or Frameworks Used
-<!--Remove the below lines and add yours -->
+
 Open Command Prompt and use the following command to install the required modules:
 
 ```sh 
@@ -29,7 +28,7 @@ pip install opencv-python
 
 
 ## 🌟 How to run
-<!--Remove the below lines and add yours -->
+
 Just open a terminal in the folder where your script is located and run the following command:
 
 ```sh
@@ -43,5 +42,4 @@ python main.py
 Image Only for Demonstration Purpose.
 
 ## 🤖 Author
-<!--Remove the below lines and add yours -->
 [Arunnaik244](https://github.com/Arunnaik244)
